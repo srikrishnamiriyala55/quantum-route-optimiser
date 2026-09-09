@@ -1,0 +1,13 @@
+streamlit
+pandas
+folium
+streamlit-folium
+streamlit-searchbox
+requests
+numpy
+geopy
+scikit-learn
+plotly
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+matplotlib

@@ -1,0 +1,3 @@
+python-interpreter-path = "c:/projects/Quantum/quantum-route-optimiser-main/venv/Scripts/python.exe"
+site-package-path = ["c:/projects/Quantum/quantum-route-optimiser-main/venv/Lib/site-packages"]
+search-path = ["."]
